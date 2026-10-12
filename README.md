@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drberrybear
-- 👀 I’m interested in fracture detection model.
+- 👀 I’m interested in sarcopenia detection model.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on AI model using CNN.
+- 💞️ I’m looking to collaborate on AI model.
 - 📫 How to reach me: berrybearlee@gmail.com
 
 <!---
